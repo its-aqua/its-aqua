@@ -7,7 +7,6 @@
 ✦ Working with HTML, CSS & JavaScript
 
 ✦ Currently learning React through projects
-<img align="right"  width="180" hspace="30"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvcold15UQvoW8DtwaZfegZa3HDkecJgl5uQ&s">
 
 ✦ Interested in UI design, animations & modern web experiences
 
